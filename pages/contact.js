@@ -4,10 +4,10 @@ export default function ContactPage() {
   return (
     <>
       <Layout>
-        <div className = "text-stone-700 w-max p-3 items-center">
-          <p className = "text-3xl items-center text-gray-300">
+        <div className = "text-stone-700 w-full">
+          <div className = "p-3 flex justify-center items-center text-6xl text-gray-300">
             Still under development.
-          </p>
+          </div>
         </div>
       </Layout>
     </>

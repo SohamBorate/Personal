@@ -4,10 +4,10 @@ export default function HomePage() {
   return (
     <>
       <Layout>
-        <div className = "text-stone-700 w-max p-3 items-center">
-          <p className = "text-3xl items-center text-gray-300">
+        <div className = "text-stone-700 w-full">
+          <div className = "p-3 flex justify-center items-center text-6xl text-gray-300">
             It's me, hi!
-          </p>
+          </div>
         </div>
       </Layout>
     </>
